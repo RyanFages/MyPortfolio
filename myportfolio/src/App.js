@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { SpeedInsights } from '@vercel/speed-insights';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 function App() {
   return (
